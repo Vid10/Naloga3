@@ -12,7 +12,7 @@
 
 ```html
 <h1>BMW salon</h1>
-<p>Spletna stran namenjena BMW vozili, kjer najdete slike, tehnične podatke in zgodovino znamke.</p>
+<p>Spletna stran namenjena BMW vozili, kjer najdete slike, tehnične podatke.</p>
 ```
 
 
