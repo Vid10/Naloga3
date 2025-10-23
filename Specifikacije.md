@@ -2,7 +2,7 @@
 
 # Avto salon </h1>
 
-![BMW]((https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg)
+![BMW](https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg)
 
 | Ime in priimek | Vloga |
 | -------------- | ----- |
