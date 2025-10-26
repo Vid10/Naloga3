@@ -1,5 +1,3 @@
-## Funkcionalnosti
-
 
 # Avto salon </h1>
 
